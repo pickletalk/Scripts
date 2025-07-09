@@ -1,7 +1,4 @@
-local Games = {
-    -- Ink game
-    [99567941238278] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame",
-    
+local Games = {   
     -- Speed Hub X (multiple games)
     [126884695634066] = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",
     [126244816328678] = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",
