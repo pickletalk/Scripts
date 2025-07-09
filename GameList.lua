@@ -22,7 +22,10 @@ local Games = {
     [6516141723] = "https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub",
     
     -- Dead Rails
-    [116495829188952] = "https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1"
+    [116495829188952] = "https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1",
+
+    -- Tower Of Hell
+    [1962086868] = "https://raw.githubusercontent.com/CelerityRBLX/Roblox/refs/heads/main/Tower%20Of%20Hell/Spawn%20Point.lua"
 }
 
 return Games
