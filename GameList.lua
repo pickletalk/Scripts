@@ -28,7 +28,7 @@ local Games = {
     [1962086868] = "https://raw.githubusercontent.com/CelerityRBLX/Roblox/refs/heads/main/Tower%20Of%20Hell/Spawn%20Point.lua",
 
     -- piggy
-    [4623386862] = "https://raw.githubusercontent.com/StarHackScripts/StarHack-Hub-Deepstar-Hub/refs/heads/main/StarHack%20Hub%20-%20Piggy%20Pro%20Hub.txt"))()
+    [4623386862] = "https://raw.githubusercontent.com/StarHackScripts/StarHack-Hub-Deepstar-Hub/refs/heads/main/StarHack%20Hub%20-%20Piggy%20Pro%20Hub.txt"
 }
 
 return Games
