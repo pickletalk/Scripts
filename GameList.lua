@@ -28,10 +28,13 @@ local Games = {
     [1962086868] = "https://rawscripts.net/raw/Tower-of-Hell-Script-(Proxima-Hub)-2870",
 
     -- piggy
-    [4623386862] = "https://raw.githubusercontent.com/StarHackScripts/StarHack-Hub-Deepstar-Hub/refs/heads/main/StarHack%20Hub%20-%20Piggy%20Pro%20Hub.txt"
+    [4623386862] = "https://raw.githubusercontent.com/StarHackScripts/StarHack-Hub-Deepstar-Hub/refs/heads/main/StarHack%20Hub%20-%20Piggy%20Pro%20Hub.txt",
 
     -- All Star Tower Defense
-    [17687504411] = "https://raw.githubusercontent.com/bunnnwee/JimiHub/refs/heads/main/ASTDX-Normal"
+    [17687504411] = "https://raw.githubusercontent.com/bunnnwee/JimiHub/refs/heads/main/ASTDX-Normal",
+
+    -- Steal a Fish
+    [72212564918217] = "https://pastebin.com/raw/c6gQj1eR"
 }
 
 return Games
