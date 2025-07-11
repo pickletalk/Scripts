@@ -34,7 +34,10 @@ local Games = {
     [17687504411] = "https://raw.githubusercontent.com/bunnnwee/JimiHub/refs/heads/main/ASTDX-Normal",
 
     -- Steal a Fish
-    [72212564918217] = "https://pastebin.com/raw/c6gQj1eR"
+    [72212564918217] = "https://pastebin.com/raw/c6gQj1eR",
+
+    -- Garden Tower Defense
+    [108533757090220] = "https://raw.githubusercontent.com/NAVAAI098/Thunder-Hub/main/Loader.lua",
 }
 
 return Games
