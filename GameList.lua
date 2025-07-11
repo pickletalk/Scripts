@@ -29,6 +29,9 @@ local Games = {
 
     -- piggy
     [4623386862] = "https://raw.githubusercontent.com/StarHackScripts/StarHack-Hub-Deepstar-Hub/refs/heads/main/StarHack%20Hub%20-%20Piggy%20Pro%20Hub.txt"
+
+    -- All Star Tower Defense
+    [17687504411] = "https://raw.githubusercontent.com/bunnnwee/JimiHub/refs/heads/main/ASTDX-Normal"
 }
 
 return Games
