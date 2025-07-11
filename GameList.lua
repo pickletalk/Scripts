@@ -38,6 +38,9 @@ local Games = {
 
     -- Garden Tower Defense
     [108533757090220] = "https://raw.githubusercontent.com/NAVAAI098/Thunder-Hub/main/Loader.lua",
+
+    -- Ink Game
+    [125009265613167] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame"
 }
 
 return Games
