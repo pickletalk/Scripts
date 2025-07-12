@@ -25,7 +25,7 @@ local Games = {
     [125723653259639] = "https://raw.githubusercontent.com/triquqd717/main/refs/heads/main/other/DrillDiggingSimulator.lua", -- Drill Digging Simulator
     
     -- Steal a brainrot
-    [109983668079237] = "https://raw.githubusercontent.com/Gregy677/Gunmods-strucid/main/Steal%20a%20brain%20rot",
+    [109983668079237] = "https://raw.githubusercontent.com/pickletalk/Scripts-Hub-X/refs/heads/main/steal-a-brainrot.lua",
     
     -- Murder Mystery 2
     [142823291] = "https://rawscripts.net/raw/Universal-Script-Forge-Hub-41461",
