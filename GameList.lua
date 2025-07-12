@@ -49,8 +49,8 @@ local Games = {
     [108533757090220] = "https://raw.githubusercontent.com/NAVAAI098/Thunder-Hub/main/Loader.lua",
 
     -- Ink Game
-    [125009265613167] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame",
-    [99567941238278] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame",
+    [125009265613167] = "https://raw.githubusercontent.com/wefwef127382/inkgames.github.io/refs/heads/main/ringta.lua",
+    [99567941238278] = "https://raw.githubusercontent.com/wefwef127382/inkgames.github.io/refs/heads/main/ringta.lua",
 
     -- Untilted Boxing Game
     [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua",
