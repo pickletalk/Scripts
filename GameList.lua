@@ -77,7 +77,10 @@ local Games = {
     [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua",
 
     -- Rivals
-    [17625359962] = "https://raw.githubusercontent.com/ByNami/RIVALS/main/RIVALS.lua"
+    [17625359962] = "https://raw.githubusercontent.com/ByNami/RIVALS/main/RIVALS.lua",
+
+    -- Emergency Hamburg
+    [7711635737] = "https://raw.githubusercontent.com/Merdooon/skibidi-sigma-spec-ter/refs/heads/main/specter"
 }
 
 return Games
