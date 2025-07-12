@@ -53,7 +53,10 @@ local Games = {
     [99567941238278] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame",
 
     -- Untilted Boxing Game
-    [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua"
+    [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua",
+
+    -- Rivals
+    [17625359962] = "https://raw.githubusercontent.com/debunked69/solixloader/refs/heads/main/solix%20v2%20new%20loader.lua"
 }
 
 return Games
