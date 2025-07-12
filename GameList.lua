@@ -45,7 +45,7 @@ local Games = {
     [125009265613167] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame",
 
     -- Untilted Boxing Game
-    [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/main/BeanzHub.lua"
+    [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua"
 }
 
 return Games
