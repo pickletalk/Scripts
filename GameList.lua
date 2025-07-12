@@ -12,7 +12,7 @@ local Games = {
     [10449761463] = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", -- The Strongest BattleGrounds
     [18901165922] = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", -- Pets Go
     [4442272183] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit Sea 2
-  [7449423635] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit Sea 3
+    [7449423635] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit Sea 3
     
     -- Steal a brainrot
     [109983668079237] = "https://raw.githubusercontent.com/Gregy677/Gunmods-strucid/main/Steal%20a%20brain%20rot",
@@ -42,7 +42,10 @@ local Games = {
     [108533757090220] = "https://raw.githubusercontent.com/NAVAAI098/Thunder-Hub/main/Loader.lua",
 
     -- Ink Game
-    [125009265613167] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame"
+    [125009265613167] = "https://raw.githubusercontent.com/gumanba/Scripts/main/InkGame",
+
+    -- Untilted Boxing Game
+    [13621938427] = "https://raw.githubusercontent.com/pid4k/scripts/main/BeanzHub.lua"
 }
 
 return Games
