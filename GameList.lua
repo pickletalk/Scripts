@@ -46,7 +46,7 @@ local Games = {
     [125723653259639] = "https://raw.githubusercontent.com/triquqd717/main/refs/heads/main/other/DrillDiggingSimulator.lua", -- Drill Digging Simulator
     
     -- Steal a brainrot
-    [109983668079237] = "https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/Slowversion.lua",
+    [109983668079237] = "https://api.luarmor.net/files/v3/loaders/705e9a93cc18214fb77ab95686a8dba9.lua",
     
     -- Murder Mystery 2
     [142823291] = "https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2",
