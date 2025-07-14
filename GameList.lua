@@ -1,7 +1,7 @@
 local Games = {   
     -- Grow A Garden
-    [126884695634066] = "https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Garden/Garden-V2.lua",
-    [91867617264223] = "https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Garden/Garden-V2.lua",
+    [126884695634066] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua",
+    [91867617264223] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua",
   
     -- Dig
     [126244816328678] = "https://raw.githubusercontent.com/PlayzlxD0tmatter/DIG-SCRIPT-ZERO/refs/heads/main/dig.md",
