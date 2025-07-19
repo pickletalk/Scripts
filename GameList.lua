@@ -42,9 +42,6 @@ local Games = {
     [116495829188952] = "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRails",
     [70876832253163] = "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRails",
   
-    -- Drill Digging Simulator
-    [125723653259639] = "https://raw.githubusercontent.com/triquqd717/main/refs/heads/main/other/DrillDiggingSimulator.lua", -- Drill Digging Simulator
-    
     -- Steal a brainrot
     [109983668079237] = "https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/ArbixHubBEST.lua",
     
