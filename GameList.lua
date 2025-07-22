@@ -83,7 +83,10 @@ local Games = {
     [74866348003583] = "https://raw.githubusercontent.com/Kyereal/Scripts/refs/heads/main/Steal%20a%20Pet%20😹",
 
     -- 3008
-    [2768379856] = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/Main.cpp"
+    [2768379856] = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/Main.cpp",
+
+    -- Steal A Freddy
+    [137167142636546] = "https://raw.githubusercontent.com/gumanba/Scripts/main/StealaFreddy"
 }
 
 return Games
