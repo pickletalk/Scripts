@@ -43,7 +43,7 @@ local Games = {
     [70876832253163] = "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRails",
   
     -- Steal a brainrot
-    [109983668079237] = "https://raw.githubusercontent.com/Youifpg/Steal-a-Brainrot-op/refs/heads/main/Arbixhub-obfuscated.lua",
+    [109983668079237] = "https://rawscripts.net/raw/Steal-a-Brainrot-steal-a-brainrot-LURK-V4-BEST-SCRIPT-43956",
     
     -- Murder Mystery 2
     [142823291] = "https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2",
