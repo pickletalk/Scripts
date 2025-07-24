@@ -89,7 +89,10 @@ local Games = {
     [137167142636546] = "https://raw.githubusercontent.com/gumanba/Scripts/main/StealaFreddy",
 
     -- Build A Plane
-    [137925884276740] = "https://pastebin.com/fbTRWScA"
+    [137925884276740] = "https://pastebin.com/fbTRWScA",
+
+    -- Steal A Country
+    [107600241411943] = "https://raw.githubusercontent.com/gumanba/Scripts/main/StealaCountry"
 }
 
 return Games
