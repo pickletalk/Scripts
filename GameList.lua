@@ -44,6 +44,7 @@ local Games = {
   
     -- Steal a brainrot
     [109983668079237] = "https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/original_script-obfuscated.lua",
+    [128762245270197] = "https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/original_script-obfuscated.lua",
     
     -- Murder Mystery 2
     [142823291] = "https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2",
